@@ -2,6 +2,6 @@
 
 Part of my MSc in Astrophysics at the UvA. Made up of 3 Assignments consisting of 2 parts (A and B).
 
-Summarized instructions for parts A are provided in each week's README, for full instructions please get in contact with me. Instructions for parts B found in the pdf files.
+The questions are not provided to avoid jeopardizing the course for future students. Please get in contact with me if you want the full problem instructions.
 
 Thanks to Dr. Phil Uttley for preparing the curriculum of this course.
