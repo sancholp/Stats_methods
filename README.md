@@ -3,5 +3,3 @@
 Part of my MSc in Astrophysics at the UvA. Made up of 3 Assignments consisting of 2 parts (A and B).
 
 The questions are not provided to avoid jeopardizing the course for future students. Please get in contact with me if you want the full problem instructions.
-
-Thanks to Dr. Phil Uttley for preparing the curriculum of this course.
